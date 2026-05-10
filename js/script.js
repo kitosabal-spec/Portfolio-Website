@@ -174,7 +174,7 @@ function initCanvas() {
         x: Math.random() * W * 0.75 + W * 0.05,
         y: Math.random() * H * 0.5,
         len: Math.random() * 220 + 100,
-        speed: Math.random() * 5 + 5,
+        speed: Math.random() * 3 + 5,
         alpha: 1,
         angle: (Math.PI / 4)
       });
